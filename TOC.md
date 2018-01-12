@@ -15,7 +15,7 @@
 
 **Liste des commandes essentielles**
 
-`ls`
+	- ls
 	- pwd
 	- cat
 	- >>
