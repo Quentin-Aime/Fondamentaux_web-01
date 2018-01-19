@@ -12,6 +12,7 @@
 
 	- explorateur de fichiers, finder
 	- ancetre : ncurse
+	- fichier bash
 
 **Liste des commandes essentielles**
 
